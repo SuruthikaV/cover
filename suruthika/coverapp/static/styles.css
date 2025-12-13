@@ -1,0 +1,95 @@
+.container
+{
+    
+    padding: 50px;
+    align-items: center;
+    margin-left: 550px;
+    width: 700;
+    height: 800;
+    background-image: url('img1.jpeg');
+    background-position: center;
+    background-size: cover;
+    text-align: justify;
+    border: solid 3px black;
+    border-radius: 8px;
+}
+.quote
+{
+    text-align: center;
+    align-items: center;
+    border-left: solid 3px;
+    border-color: rgb(5, 6, 6);
+    background-color: rgb(166, 168, 170);
+    font-style: italic;
+}
+.para
+{
+    text-align: left;
+}
+.author
+{
+    height: 150px;
+    background-color: rgb(166, 168, 170);
+    border-color: black;
+    bottom: 500px;
+    text-align: left;
+    padding-left: 10px;
+
+}
+footer
+{
+   background-color: rgb(166, 168, 170);
+   width: 700px;
+   height: 60px; 
+}
+.publisher
+{
+    font-weight: bold;
+    padding-left: 10px;
+    position: relative;
+    top: 10px;
+}
+.para
+{
+    padding-left: 110px;
+    padding-bottom: 200px;
+    position: relative;
+    
+    font-size: large;
+    bottom: 100px;
+
+}
+h3
+{
+    padding-left: 110px;
+    position: relative;
+    bottom: 60px;
+    top: 20px;
+}
+.rate
+{
+    padding-left: 610px;
+    position: relative;
+    bottom: 15px;
+}
+.print
+{
+    padding-left: 10px;
+    position: relative;
+    top: 10px;
+}
+
+.photo
+{
+    position: relative;
+    bottom: 30px;
+    top: 1px;
+}
+span
+{
+    background-color: rgb(189, 234, 248);
+}
+.content
+{
+    font-size: large;
+}
