@@ -1,5 +1,5 @@
 # Ex.05 Book Cover Page Design
-## Date:13-12-2025
+## Date:15-12-2025
 
 ## AIM:
 To design a book back cover page using HTML and CSS.
@@ -55,7 +55,7 @@ are vital for software development and competitive programming.</p>
                 <br>
                 <br> 
             <div class="quote">
-                <h2>“Great programs are not written </h2>
+                <h2>"Great programs are not written </h2>
                 <h2>They are designed through logic, structure, and clarity."</h2>
                 <br>
             </div>
@@ -195,7 +195,7 @@ span
 
 
 ## OUTPUT:
-![alt text](<Screenshot (30).png>)
+![alt text](<Screenshot (31).png>)
 
 ## RESULT:
 The program for designing book back cover page using HTML and CSS is completed successfully.
